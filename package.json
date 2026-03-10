@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-google-places-explorer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "n8n community node for searching and exploring places using the Google Places API (New)",
   "license": "MIT",
   "homepage": "",
