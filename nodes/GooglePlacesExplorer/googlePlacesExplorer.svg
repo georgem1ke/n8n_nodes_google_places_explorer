@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
   <!-- Pin body -->
-  <path d="M32 58 C32 58 10 33 10 23 C10 10.85 19.85 1 32 1 C44.15 1 54 10.85 54 23 C54 33 32 58 32 58Z"
+  <path d="M12 21.75 C12 21.75 3.75 12.375 3.75 8.625 C3.75 4.07 7.44 0.375 12 0.375 C16.56 0.375 20.25 4.07 20.25 8.625 C20.25 12.375 12 21.75 12 21.75Z"
         fill="#E8453C"/>
 
   <!-- Compass face -->
-  <circle cx="32" cy="23" r="13" fill="white"/>
+  <circle cx="12" cy="8.625" r="4.875" fill="white"/>
 
   <!-- North needle (red) -->
-  <polygon points="32,11 29,23 32,21 35,23" fill="#E8453C"/>
+  <polygon points="12,4.125 10.875,8.625 12,7.875 13.125,8.625" fill="#E8453C"/>
   <!-- South needle (dark) -->
-  <polygon points="32,35 35,23 32,25 29,23" fill="#2C3E50"/>
+  <polygon points="12,13.125 13.125,8.625 12,9.375 10.875,8.625" fill="#2C3E50"/>
 
   <!-- Center dot -->
-  <circle cx="32" cy="23" r="1.5" fill="#2C3E50"/>
+  <circle cx="12" cy="8.625" r="0.5625" fill="#2C3E50"/>
 </svg>
