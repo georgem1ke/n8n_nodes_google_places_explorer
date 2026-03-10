@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-google-places-explorer",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Miscellaneous"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://developers.google.com/maps/documentation/places/web-service/get-api-key"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://developers.google.com/maps/documentation/places/web-service/text-search"
+			}
+		]
+	}
+}
